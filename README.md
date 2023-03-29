@@ -29,3 +29,4 @@ Todos:
 - more robust client side validation
 - server side validation
 - more user feedback -> toasts?
+- tests around the api endpoints
